@@ -1,0 +1,23 @@
+1. npm init --y [initialize npm]
+2. hpp
+3. helmet
+4. cors
+5. cookie parser
+6. express
+7. express-rate-limit
+8. json web token
+9. mongoose
+10. nodemon
+11. file folder create
+12. index file initialise
+13. model creation
+14. Server Creation
+15. Create Controller
+16. API Routing
+17. JWT Token Encode/ Decode
+18. Authentication Middleware
+19. User Log in
+20. token creates when log in
+21. Logged in user update
+
+
